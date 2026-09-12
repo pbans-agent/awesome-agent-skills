@@ -28,6 +28,7 @@ The dev tooling side of AI agents is well-covered. This list focuses on the gap:
 
 - **[Google Workspace CLI (gws)](https://github.com/googleworkspace/cli)** — One CLI for all of Google Workspace: Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin. 40+ agent skills included, dynamically built from Google Discovery API. Built explicitly for AI agents doing knowledge work. `[claude-code]` `[gemini-cli]` `[any]` 🌟
 - **[Baserow](https://github.com/baserow/baserow)** — Open-source no-code database + AI agents + automations. GDPR/HIPAA/SOC2 compliant, self-hostable. Build structured data systems and automations for knowledge work — no code. `[any]`
+- **[Hart-git-Stevejobs-skill](https://github.com/Hart886-prog/Hart-git-Stevejobs-skill)** — Chinese-first product decision skill for customer discovery, MVP tradeoffs, PRD review, and evidence-based launch decisions. `[codex]`
 
 ## Documents & Files
 
