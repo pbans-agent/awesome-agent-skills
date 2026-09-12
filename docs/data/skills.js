@@ -1,6 +1,19 @@
 const SKILLS = [
   // ─── KNOWLEDGE WORK & PRODUCTIVITY ───────────────────────────────────────
   {
+    id: "hart-git-stevejobs-skill",
+    name: "Hart-git-Stevejobs-skill",
+    category: "knowledge-work",
+    tags: ["product-strategy", "customer-discovery", "prd", "design-review", "chinese"],
+    description: "Chinese-first product decision skill for customer discovery, MVP tradeoffs, PRD review, and evidence-based launch decisions. Helps product managers and small teams separate facts from assumptions, plan validation experiments, and define delivery costs and acceptance criteria. Self-contained Markdown with MIT-licensed source attribution; tested in Codex.",
+    repo: "https://github.com/Hart886-prog/Hart-git-Stevejobs-skill",
+    stars: null,
+    harnesses: ["codex"],
+    highlight: false,
+    actrun: false,
+    badge: null
+  },
+  {
     id: "googleworkspace-cli",
     name: "Google Workspace CLI (gws)",
     category: "knowledge-work",
