@@ -1,4 +1,25 @@
 const SKILLS = [
+  {
+    "id": "hyperconsciousness",
+    "name": "Hyperconsciousness",
+    "category": "infrastructure",
+    "tags": [
+      "memory",
+      "knowledge",
+      "mcp",
+      "encryption"
+    ],
+    "description": "Developer-alpha encrypted, append-only knowledge store with MCP retrieval through scoped, expiring grants. Includes a CLI discovery skill for Claude Code and Codex; installing the skill does not grant access to private stores.",
+    "repo": "https://github.com/louis030195/hyperconsciousness",
+    "stars": null,
+    "harnesses": [
+      "claude-code",
+      "codex"
+    ],
+    "highlight": false,
+    "actrun": false,
+    "badge": null
+  },
   // ─── KNOWLEDGE WORK & PRODUCTIVITY ───────────────────────────────────────
   {
     id: "googleworkspace-cli",
