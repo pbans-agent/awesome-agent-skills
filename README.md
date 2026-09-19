@@ -52,6 +52,7 @@ The dev tooling side of AI agents is well-covered. This list focuses on the gap:
 - **[Everything Claude Code](https://github.com/affaan-m/everything-claude-code)** ⭐ 50k — Anthropic hackathon winner. Complete agent harness optimization: memory persistence hooks, continuous learning, security scanning, subagent orchestration. `[claude-code]` `[codex]` `[cursor]`
 - **[Agent Skills for Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** — Open collection of Agent Skills focused on context engineering principles for production-grade AI agent systems. `[any]`
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** — Gemini AI agent in your terminal. Full agentskills.io spec support — skills are portable across harnesses. `[gemini-cli]`
+- **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** — Developer-alpha encrypted knowledge store and discovery skill for retrieving notes across agent sessions through scoped, expiring MCP grants. `[claude-code]` `[codex]`
 
 ## Orchestration
 
