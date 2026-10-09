@@ -40,6 +40,8 @@ The dev tooling side of AI agents is well-covered. This list focuses on the gap:
 
 ## Research & Web
 
+- **[1human Creative References](https://github.com/mdagnolops/1human-reels/tree/main/skills/agent-reels)** — Research credited motion references and owner-approved saved preferences for real creative revisions. Open-source integration; public previews and free basic hosted participation, with approved access for recipes and private libraries. `[codex]`
+
 - **[Khoj](https://github.com/khoj-ai/khoj)** ⭐ 33k — Self-hostable AI second brain. Deep research, personal knowledge base, custom agents, automation. Ingests PDFs, Markdown, Notion, Word. Semantic search over your entire knowledge base. `[standalone]` `[api]`
 - **[Browser Use](https://github.com/browser-use/browser-use)** — Make any website accessible to AI agents. Research automation, form filling, scraping structured data from any site. `[any]`
 - **[Firecrawl](https://github.com/firecrawl/firecrawl)** — Turns entire websites into LLM-ready Markdown or structured data. The go-to research ingestion pipeline. `[any]`

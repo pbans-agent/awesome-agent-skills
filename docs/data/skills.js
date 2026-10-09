@@ -1,4 +1,17 @@
 const SKILLS = [
+  {
+    id: "1human-creative-references",
+    name: "1human Creative References",
+    category: "research",
+    tags: ["creative-research", "motion", "references", "content-ops"],
+    description: "Research credited motion references and owner-approved saved preferences for real creative revisions. The integration is MIT; public previews and basic hosted participation are free, while recipe/private-library access requires owner approval. Hosted service and collections have separate ownership.",
+    repo: "https://github.com/mdagnolops/1human-reels/tree/main/skills/agent-reels",
+    stars: null,
+    harnesses: ["codex"],
+    highlight: false,
+    actrun: false,
+    badge: null
+  },
   // ─── KNOWLEDGE WORK & PRODUCTIVITY ───────────────────────────────────────
   {
     id: "googleworkspace-cli",
