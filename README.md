@@ -63,6 +63,7 @@ The dev tooling side of AI agents is well-covered. This list focuses on the gap:
 - **[Awesome Agent Skills (Skillmatic)](https://github.com/skillmatic-ai/awesome-agent-skills)** — Definitive resource across 11 domains. Includes SkillsBench: 86 benchmark tasks for evaluating skill performance across diverse tasks. `[any]`
 - **[1000+ Agentic Skills (Antigravity)](https://github.com/sickn33/antigravity-awesome-skills)** — 1000+ battle-tested, high-performance agentic skills for Claude Code/Cursor. Production-proven skill patterns. `[claude-code]` `[cursor]`
 - **[500 AI Agents Use Cases](https://github.com/ashishpatel26/500-AI-Agents-Projects)** — 500 AI agent use cases across healthcare, finance, education, and retail with open-source implementations. `[any]`
+- **[Marketing Skills](https://github.com/LuCheremisina/marketing-skills)** — 34 marketing workflows for research, SEO/GEO, Yandex analytics and sourced expert content, with per-client requirements. `[codex]` `[claude-code]` `[cursor]`
 
 ## Learning & Benchmarks
 

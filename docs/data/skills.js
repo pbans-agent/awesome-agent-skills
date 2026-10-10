@@ -1,4 +1,28 @@
 const SKILLS = [
+  {
+    "id": "marketing-skills-research-analytics",
+    "name": "Marketing Skills",
+    "category": "curated",
+    "tags": [
+      "marketing",
+      "research",
+      "seo",
+      "geo",
+      "analytics",
+      "content"
+    ],
+    "description": "34 original marketing workflows for research, SEO/GEO, Yandex search and advertising analytics, and sourced content. Individual inputs, integrations and runtime limits are documented; 14 licensed engineering skills are optional.",
+    "repo": "https://github.com/LuCheremisina/marketing-skills",
+    "stars": null,
+    "harnesses": [
+      "codex",
+      "claude-code",
+      "cursor"
+    ],
+    "highlight": false,
+    "actrun": false,
+    "badge": null
+  },
   // ─── KNOWLEDGE WORK & PRODUCTIVITY ───────────────────────────────────────
   {
     id: "googleworkspace-cli",
