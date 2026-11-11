@@ -149,6 +149,19 @@ const SKILLS = [
     actrun: true
   },
   {
+    id: "govisit-toolkit",
+    name: "GoVisit Toolkit",
+    category: "curated",
+    tags: ["travel", "destinations", "places", "research", "agent-skills"],
+    description: "22 portable Agent Skills for finding and interpreting public GoVisit destinations and places. The source repository documents installation for Claude Code, Codex, GitHub Copilot, and Cursor.",
+    repo: "https://github.com/inhotel-io/govisit-toolkit",
+    stars: null,
+    harnesses: ["claude-code", "codex", "cursor", "any"],
+    highlight: false,
+    actrun: false,
+    badge: null
+  },
+  {
     id: "agent-skills-context-engineering",
     name: "Agent Skills for Context Engineering",
     category: "infrastructure",
