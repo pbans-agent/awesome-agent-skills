@@ -45,6 +45,7 @@ The dev tooling side of AI agents is well-covered. This list focuses on the gap:
 - **[Firecrawl](https://github.com/firecrawl/firecrawl)** — Turns entire websites into LLM-ready Markdown or structured data. The go-to research ingestion pipeline. `[any]`
 - **[LlamaIndex](https://github.com/run-llama/llama_index)** ⭐ 47k — Leading document agent platform. Ingest PDFs, Word, Notion, Confluence. Build agents that reason over enterprise document collections. `[any]`
 - **[changedetection.io](https://github.com/dgtlmoon/changedetection.io)** ⭐ 30k — Monitor competitor pages, track industry news, watch for policy/doc changes. Pairs with knowledge work agents as a research alerting layer. `[any]`
+- **[AIHOT Agent Skill](https://github.com/KKKKhazix/khazix-skills/tree/main/aihot)** — Search Chinese-language AI industry news and retrieve dated briefings through a public read-only API. `[claude-code]` `[codex]` `[any]`
 
 ## Memory & Infrastructure
 

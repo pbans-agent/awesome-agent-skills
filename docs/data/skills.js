@@ -1,4 +1,17 @@
 const SKILLS = [
+  {
+    id: "aihot",
+    name: "AIHOT Agent Skill",
+    category: "research",
+    tags: ["news", "research", "chinese"],
+    description: "Search Chinese-language AI industry news and retrieve dated briefings. It uses the public AIHOT API without an API key.",
+    repo: "https://github.com/KKKKhazix/khazix-skills/tree/main/aihot",
+    stars: null,
+    harnesses: ["claude-code", "codex", "any"],
+    highlight: false,
+    actrun: false,
+    badge: null
+  },
   // ─── KNOWLEDGE WORK & PRODUCTIVITY ───────────────────────────────────────
   {
     id: "googleworkspace-cli",
