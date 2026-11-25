@@ -113,6 +113,18 @@ const SKILLS = [
     badge: "🏆 Hackathon Winner"
   },
   {
+    id: "govisit-toolkit",
+    name: "GoVisit Agent Skills Toolkit",
+    category: "curated",
+    tags: ["curated", "travel", "travel-research", "destinations", "places"],
+    description: "24 MIT-licensed, cross-harness Agent Skills for travel research. Search destinations and places, inspect public profiles and visit facts, and read travel FAQs and documentation. Install for Claude Code, Codex, Cursor, GitHub Copilot, and other compatible agents.",
+    repo: "https://github.com/inhotel-io/govisit-toolkit",
+    stars: null,
+    harnesses: ["claude-code", "codex", "cursor", "any"],
+    highlight: false,
+    actrun: false
+  },
+  {
     id: "composio-awesome",
     name: "Awesome Claude Skills (Composio)",
     category: "curated",

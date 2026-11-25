@@ -59,6 +59,7 @@ The dev tooling side of AI agents is well-covered. This list focuses on the gap:
 
 ## Curated Collections
 
+- **[GoVisit Agent Skills Toolkit](https://github.com/inhotel-io/govisit-toolkit)** — 24 MIT-licensed, cross-harness skills for travel research: search destinations and places, inspect public profiles and visit facts, and read travel FAQs and documentation. Install for Claude Code, Codex, Cursor, GitHub Copilot, and other compatible agents. [Agent Skills docs](https://govisit.ai/en/docs/developers/agent-skills/overview) · [MCP docs](https://govisit.ai/en/docs/developers/mcp/overview)
 - **[Awesome Claude Skills (Composio)](https://github.com/ComposioHQ/awesome-claude-skills)** — Covers Document Processing, Business & Marketing, Communication & Writing, Productivity & Organization, Collaboration & Project Management, and 500+ app automations. `[claude-code]` `[any]`
 - **[Awesome Agent Skills (Skillmatic)](https://github.com/skillmatic-ai/awesome-agent-skills)** — Definitive resource across 11 domains. Includes SkillsBench: 86 benchmark tasks for evaluating skill performance across diverse tasks. `[any]`
 - **[1000+ Agentic Skills (Antigravity)](https://github.com/sickn33/antigravity-awesome-skills)** — 1000+ battle-tested, high-performance agentic skills for Claude Code/Cursor. Production-proven skill patterns. `[claude-code]` `[cursor]`
